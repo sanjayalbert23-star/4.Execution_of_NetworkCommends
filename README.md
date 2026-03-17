@@ -127,4 +127,6 @@ while True:
 client.close()
 ```
 ## Result
+<img width="730" height="370" alt="image" src="https://github.com/user-attachments/assets/679d733e-bdeb-4f6e-b8a0-1930af2906d0" />
+
 Thus Execution of Network commands Performed 
