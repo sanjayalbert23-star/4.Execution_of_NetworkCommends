@@ -128,5 +128,6 @@ client.close()
 ```
 ## Result
 <img width="730" height="370" alt="image" src="https://github.com/user-attachments/assets/679d733e-bdeb-4f6e-b8a0-1930af2906d0" />
+<img width="721" height="366" alt="image" src="https://github.com/user-attachments/assets/8a865538-40a6-4735-b957-4a9793a93e60" />
 
 Thus Execution of Network commands Performed 
